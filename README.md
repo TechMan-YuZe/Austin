@@ -126,8 +126,3 @@ curl -XPOST "127.0.0.1:8080/send"  -H 'Content-Type: application/json'  -d '{"co
 - [x] Kafka消息支持tag过滤
 - [x] MQ层支持可插拔，默认使用eventbus单机队列，Kafka变为弱依赖
 - [ ] 总体架构已完成，持续做基础建设和优化代码
-
-
-**近期更新时间**：7月11号
-
-**近期更新功能**：MQ层可插拔重构
