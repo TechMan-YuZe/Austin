@@ -1,22 +1,5 @@
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/108bca55a5364a73b3fd50b8bde304d1~tplv-k3u1fbpfcp-watermark.image?)
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Author-3y-orange.svg" alt="作者"></a>
-  <a href="https://gitee.com/zhongfucheng/austin"><img src="https://gitee.com/zhongfucheng/austin/badge/star.svg?theme=dark" alt="gitee Starts"></a>
-  <a href="https://gitee.com/zhongfucheng/austin"><img src="https://gitee.com/zhongfucheng/austin/badge/fork.svg?theme=dark" alt="gitee Starts"></a>
-  <a href="https://github.com/ZhongFuCheng3y/austin"><img src="https://img.shields.io/github/forks/ZhongFuCheng3y/austin.svg?style=flat&label=GithubFork"></a> 
-  <a href="https://github.com/ZhongFuCheng3y/austin"><img src="https://img.shields.io/github/stars/ZhongFuCheng3y/austin.svg?style=flat&label=GithubStars"></a>
-  <a href="https://github.com/ZhongFuCheng3y/austin-admin"><img src="https://img.shields.io/badge/austin前端-GitHub-green.svg" alt="作者"></a>
-  <a href="#项目交流"><img src="https://img.shields.io/badge/项目-交流-red.svg" alt="项目交流"></a>
-  <a href="https://space.bilibili.com/198434865/channel/collectiondetail?sid=435119"><img src="https://img.shields.io/badge/项目-视频-green.svg" alt="Bilibili"></a>
-  <a href="#如何准备面试"><img src="https://img.shields.io/badge/如何准备-面试-yellow.svg" alt="对线面试官"></a>
-</p>
-
-最近我已经在**bilibili**更新Austin的视频了哟，**求关注和三连**！这是我更新的动力！！
-
-[https://space.bilibili.com/198434865/channel/collectiondetail?sid=435119](https://space.bilibili.com/198434865/channel/collectiondetail?sid=435119)
-
+# Austin - 消息推送平台
 
 
 ## 项目介绍
@@ -108,42 +91,6 @@ curl -XPOST "127.0.0.1:8080/send"  -H 'Content-Type: application/json'  -d '{"co
 
 **15**、正常使用**动态配置中心**需要部署`apollo`，根据[部署文档](INSTALL.md)启动`apollo`,通过docker-compose启动需要在AustinApplication注入对应的ip和port(可看注释)
 
-## 会员服务
-
-收费课程是以**项目**为主，代码在Gitee和GitHub上都是开源的，项目没有商业版，后面也不会有。那么，付费跟我自己去拉Git仓库拉代码下来看有什么区别？
-
-1、有很多人的自学能力和基础确实不太行，不知道怎么开始学习，从哪开始看起，学习项目的过程中会走很多弯路，很容易就迷茫了。付费最跟自学最主要的区别就是**我的服务会更周到**。
-
-我会告诉你怎么开始学这个开源项目，哪些是重点需要掌握的，如何利用最短的时间把握整个系统架构和编码的设计，把时间节省下来去做其他事情。
-
-2、一个生产环境的系统肯定会依赖各种中间件，《消息推送平台-Austin》也是一样的。我专门买了两台服务器已经搭建好必要的依赖，付费的可以**使用我的远程服务器**，在**本地就可以直接启动运行体验和学习**
-
-3、项目在编写的过程中也经历多次的重构迭代，迭代的内容我是不会将以往文章内容重新修正发布，但语雀的文档内容一定是**及时同步**，文档跟代码是保持一致的
-
-4、干练清爽的项目commit，可一步一步跟着commit还原整个系统的过程
-
-5、除了项目，还可以问我些学习经验、学习路线、简历编写、面试经验等等问题，技术和学习上的知识**知无不言**
-
-详情可以看戳：[我开通了付费渠道](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247505577&idx=1&sn=5114f8f583755899c2946fbea0b22e4b&chksm=ebd497a8dca31ebe8f98344483a00c860863dfc3586e51eed95b25988151427fee8101311f4f&token=319992632&lang=zh_CN#rd)
-
-
-## 项目交流
-
-由于austin项目交流群已经超过了两百人，添加我的**个人微信**备注：【**项目**】，我空的时候会拉进项目交流群里
-
-
-<img align="center" src='https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/60efe6b0f4354b838244b96a15efdf49~tplv-k3u1fbpfcp-watermark.image' width=300px height=300px />
-
-## 如何准备面试？
-
-**对线面试官**公众号持续更新**面试系列**文章（对线面试官系列），深受各大开发的好评，已有不少的同学通过对线面试官系列得到BATTMD等一线大厂的的offer。一个**讲人话的面试系列**，八股文不再是背诵。
-
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c4a6cae132244355b9da6bd74d38d1ee~tplv-k3u1fbpfcp-zoom-1.image)
-
-想要获取这份电子书，**点击关注**下方公众号，回复「**对线**」得到我的联系方式即可进群获取电子书
-
-<img align="center" src='https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f87f574e93964921a4d02146bf3ccdac~tplv-k3u1fbpfcp-zoom-1.image' width=300px height=300px />
 
 ## 里程碑
 
